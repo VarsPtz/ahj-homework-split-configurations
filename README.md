@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/df8wtdfqdeuvklu5?svg=true)](https://ci.appveyor.com/project/VarsPtz/ahj-homework-split-configurations)
+
 [GitHub Pages](https://varsptz.github.io/ahj-homework-split-configurations/)
 ### Разделение конфигураций (задача со звёздочкой)
 
